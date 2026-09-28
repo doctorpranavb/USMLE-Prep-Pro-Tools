@@ -38,20 +38,17 @@ The separation between **solving new questions** and **reviewing completed quest
 
 Before a study session begins, the interface establishes the session structure and provides the context needed to start intentionally rather than simply opening the Q-bank and beginning.
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
-<img src="media/screenshots/01_qbank-pro-assist_clean-start.png" width="100%" alt="QBank Pro Assist clean session start">
+<p align="center">
+<img src="media/screenshots/01_qbank-pro-assist_clean-start.png" width="90%" alt="QBank Pro Assist clean session start">
 <br>
 <sub><b>Ready state before the session begins</b></sub>
-</td>
-<td width="50%" valign="top" align="center">
-<img src="media/screenshots/02_qbank-pro-assist_coaching-pre-session.png" width="100%" alt="QBank Pro Assist coaching pre-session view">
+</p>
+
+<p align="center">
+<img src="media/screenshots/02_qbank-pro-assist_coaching-pre-session.png" width="90%" alt="QBank Pro Assist coaching pre-session view">
 <br>
 <sub><b>Pre-session coaching and prior-performance context</b></sub>
-</td>
-</tr>
-</table>
+</p>
 
 Once active, the same interface becomes a live representation of the study session: questions completed, focused study periods, breaks, elapsed time, and session behavior update as the day develops.
 
@@ -63,20 +60,17 @@ Raw totals were not enough for me.
 
 Two study days could contain similar total hours but feel completely different depending on how fragmented those hours were.
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
+<p align="center">
 <img src="media/screenshots/04_qbank-pro-assist_activity-waveforms.png" width="100%" alt="Study and break activity waveforms">
 <br>
 <sub><b>Study and break activity represented as separate session waveforms</b></sub>
-</td>
-<td width="50%" valign="top" align="center">
+</p>
+
+<p align="center">
 <img src="media/screenshots/05_qbank-pro-assist_18hour-history-canvas.png" width="100%" alt="18-hour session history comparison canvas">
 <br>
 <sub><b>Historical sessions aligned to the same 18-hour canvas for comparison</b></sub>
-</td>
-</tr>
-</table>
+</p>
 
 Long uninterrupted blocks, short interruptions, extended breaks, start times, session duration, and question volume become easier to compare visually instead of disappearing inside a single total-duration number.
 
@@ -85,7 +79,7 @@ Long uninterrupted blocks, short interruptions, extended breaks, start times, se
 ## Time-of-Day Context
 
 <p align="center">
-<img src="media/screenshots/06_qbank-pro-assist_multiday-circadian-history.png" width="90%" alt="Multi-day study timing history">
+<img src="media/screenshots/06_qbank-pro-assist_multiday-circadian-history.png" width="100%" alt="Multi-day study timing history">
 <br>
 <sub><b>Multi-day history showing when study sessions occurred across the day</b></sub>
 </p>
@@ -137,7 +131,7 @@ Once question volume became visible day by day, productive and unproductive peri
 </table>
 
 <p align="center">
-<img src="media/screenshots/13_review-timer_daily-history-jul.png" width="65%" alt="Daily question review history July">
+<img src="media/screenshots/13_review-timer_daily-history-jul.png" width="75%" alt="Daily question review history July">
 <br>
 <sub><b>Earlier review history — useful for comparing different phases of preparation</b></sub>
 </p>
@@ -199,6 +193,8 @@ What I am showcasing is therefore not line-by-line manual programming, but the c
 
 <details>
 <summary><strong>Technical Notes & Evolution</strong></summary>
+
+<br>
 
 ### Technical foundation
 
