@@ -39,13 +39,13 @@ The separation between **solving new questions** and **reviewing completed quest
 Before a study session begins, the interface establishes the session structure and provides the context needed to start intentionally rather than simply opening the Q-bank and beginning.
 
 <p align="center">
-<img src="media/screenshots/01_qbank-pro-assist_clean-start.png" width="90%" alt="QBank Pro Assist clean session start">
+<img src="media/screenshots/01_qbank-pro-assist_clean-start.png" width="100%" alt="QBank Pro Assist clean session start">
 <br>
 <sub><b>Ready state before the session begins</b></sub>
 </p>
 
 <p align="center">
-<img src="media/screenshots/02_qbank-pro-assist_coaching-pre-session.png" width="90%" alt="QBank Pro Assist coaching pre-session view">
+<img src="media/screenshots/02_qbank-pro-assist_coaching-pre-session.png" width="100%" alt="QBank Pro Assist coaching pre-session view">
 <br>
 <sub><b>Pre-session coaching and prior-performance context</b></sub>
 </p>
